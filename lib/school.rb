@@ -13,6 +13,10 @@ class School
     @roster[grade] << name
   end
 
+  def roster
+  @roster
+end
+
   def grade(grade)
     @roster[grade]
   end
