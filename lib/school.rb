@@ -28,6 +28,3 @@ class School
   end
 
 end
-      value.sort
-
-end
